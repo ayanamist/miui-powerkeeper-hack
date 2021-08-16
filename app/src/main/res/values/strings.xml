@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MIUI PowerKeeper Hack</string>
+    <string name="xposed_description">Some hack for MIUI PowerKeeper</string>
+    <string-array name="scope">
+        <item>com.miui.powerkeeper</item>
+    </string-array>
+</resources>
